@@ -31,6 +31,10 @@ However, lot three does not meet the suspension coil PSI variance requirement, w
 ![](https://github.com/smzd/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable3.1.png)
 ![](https://github.com/smzd/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable3.2.png)
 
+We can conclude that the true mean 1498.78, and the P value is 0.06. The true mean value is similar to the above summary statistics mean value. Based on the P value, we can suggest that deviation from the null hypothesis is not statistically significant thus, we cannot reject the null hypothesis. 
+
+P values for the T-test on Lot 1 and 2 are 1 and 0.6, which are above 0.05, so we cannot reject the null hypothesis. On the other hand, Lot 3 P value is 0.04, which is less than 0.5 and is considered statistically significant. Therefore for Lot 3, we can reject the null hypothesis. 
+
 ## Study Design: MechaCar vs. Competition
 
 We are designing a thesis based on MechaCar vs. their competitors. There are essential attributes to consider for future improvement of mechanical fuel efficiency. 
