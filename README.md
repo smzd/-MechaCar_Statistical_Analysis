@@ -48,8 +48,11 @@ To do so, we will use Multiple Linear Regression to test our thesis based on how
 Multiple Linear Regression models will have independent variables and one dependent variable.
 
 Dependent variable: fuel efficiency / mileage
+
 Independent variable 1: Vehicle weight 
+
 Independent variable 2: Horsepower
+
 Independent variable 3: Vehicle cost
 
 After creating multiple linear regression models, we need to calculate our statistical metrics using the summary() function. In the summary() function output we will obtain Pr(>|t|) value for each variable. We can then reject our null hypothesis by gathering P values to examine whether they are below 0.05% for any of the variables. 
