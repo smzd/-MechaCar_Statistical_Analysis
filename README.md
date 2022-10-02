@@ -1,5 +1,7 @@
 ## Linear Regression to Predict MPG
 
+The mechanical creates arrays of prototypes using multiple design specifications to conduct ideal vehicle performance. Using R, we created a linear model that predicts the mpg of MachaCar prototypes. We used six different variables to predict vehicle performance. 
+
 ![](https://github.com/smzd/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable1.png)
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -15,6 +17,8 @@ Does this linear model predict the mpg of MechaCar prototypes effectively? Why o
 The R-squared value is  0.7149. This tells us there are 71.49% of the mpg prediction of MechaCar prototypes are effective. Therefore we can confirm the findings to be successful. 
 
 ## Summary Statistics on Suspension Coils
+
+In this section, we used three production lots of the MachaCar dataset. The weight capacity of suspension coils was tested, and the variance of the suspension coils should be 100 pounds per square inch.
 
 ![](https://github.com/smzd/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable2.png)
 
