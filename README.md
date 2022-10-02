@@ -10,7 +10,7 @@ P value for the vehicle_length  is 2.60e-12 and ground_clearance  is 5.21e-08. S
 
 Is the slope of the linear model considered to be zero? Why or why not?
 
-The P-value for our model is 5.35e-11. To reject the null hypothesis significance level should be less than 0.05%. The p-value for the regression model is so significantly low that we can leave the null hypothesis.
+The P-value for our model is 5.35e-11. To reject the null hypothesis significance level should be less than 0.05%. The p-value for the regression model is so significantly low that we can leave the null hypothesis. Thus the slope of the linear model is not zero.
 
 Does this linear model predict the mpg of MechaCar prototypes effectively? Why or why not? 
 
